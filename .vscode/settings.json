@@ -1,6 +1,6 @@
 // Please put `.vscode/settings.json` on your workspace
 {
-    "editor.fontFamily": "'Sarasa Mono TC', 'Operator Mono', 'Fira Code', Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "'Sarasa Mono SC Nerd', 'Operator Mono', 'Fira Code', Consolas, 'Courier New', monospace",
     "editor.fontSize": 18,
     "workbench.colorTheme": "Horizon",
     "editor.minimap.scale": 1,
